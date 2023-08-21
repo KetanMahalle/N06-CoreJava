@@ -1,4 +1,0 @@
-Name:Ketan
-Address:Wardha
-Class:FYMCA
-Marks:99
