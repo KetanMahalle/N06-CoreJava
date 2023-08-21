@@ -1,4 +1,0 @@
-Name:grsg
-Address:fsgs
-Class:sg
-Marks:56
